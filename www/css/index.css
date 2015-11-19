@@ -416,3 +416,47 @@ and (-webkit-min-device-pixel-ratio: 1) {
     font-size: 1.0em;
   }
 }
+
+@media (min-height: 1800px){
+    body
+    {
+      font-size: 0.8em;
+    }
+
+    .button
+     {
+       width: 74%;
+       margin-top: 10%;
+       font-size: 100px;
+     }
+
+     button
+      {
+      height: 120px;
+     }
+    section p
+    {
+      width: 100% !important;
+      text-align: center;
+      font-size: 5.2em;
+    }
+
+    .image img
+    {
+      width: 90%;
+    }
+
+    .gallery
+    {
+      height: 1200px;
+    }
+
+    #rslt_msg
+    {
+      font-size: 5em;
+    }
+
+    #woman {
+      width: 80%;
+    }
+}
